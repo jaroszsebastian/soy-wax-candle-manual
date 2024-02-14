@@ -1,4 +1,4 @@
-# Soy Wax Candle Manufacturing Guide
+# Soy Wax Candle Manual
 
 ### Overview
 
