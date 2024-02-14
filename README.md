@@ -59,7 +59,7 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
 |-----------------------------------|
 | Never leave melting wax unattended to prevent fire hazards. |
 
-**1.4 Install Wick **
+**1.4 Install Wick**
 - Center the wick using a centering tool or a makeshift guide (e.g., pencil or chopstick).
 
 **1.5 Pour Wax**
