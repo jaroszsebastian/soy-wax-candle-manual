@@ -1,14 +1,19 @@
 # Soy Wax Candle Manual
 
-### Overview
+## $\text{\color {lightblue}{ Overview}}$
 
-Welcome to the world of candle making! This guide is designed for everyone interested in learning how to make soy wax candles, a popular choice for their clean burn and eco-friendly benefits. Whether you're starting out or looking to refine your skills, we've got you covered with step-by-step instructions, tips, and safety advice.
+**Welcome to the world of candle making!** 
 
-Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. Our focus on soy wax highlights our commitment to sustainability and healthier alternatives. By following this guide, you'll learn everything from setting up your workspace to adding the final touches to your candles.
+This guide is designed for everyone interested in learning how to make soy wax candles regardless of their skills. 
+- If you are just a beginner, this step-by-step instruction will guide you through the process of making your first candles.
+- If you are experienced in the craft of making candles, but are having issues with perfecting your candles, go to the Troubleshooting Common Issues section
+
+> [!NOTE]
+> Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
 
 We aim to make this journey as straightforward and enjoyable as possible, providing you with the essential knowledge to create beautiful, high-quality candles. Let's light up your candle making adventure with simplicity, safety, and style.
 
-## $\text{\color {red}{ Safety Guidelines}}$
+## $\text{\color {orange}{ Safety Guidelines}}$
 
 - **Ventilation**: Ensure the manufacturing area is well-ventilated.
 - **Supervision**: Never leave heated wax unattended.
@@ -16,7 +21,7 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
 - **Protective Equipment**: Wear gloves and protective clothing.
 - **Fire Safety**: Keep a fire extinguisher nearby.
 
-## Required Equipment and Materials
+## $\text{\color {lightblue}{ Required Equipment and Materials}}$
 
 - Soy wax flakes
 - Pre-tabbed candle wicks
@@ -24,10 +29,11 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
 - Double boiler
 - Candle thermometer
 - Stirring utensil (wooden preferred)
-- Fragrance oils (optional)
-- Candle dye (optional)
 - Wick centering tool
 - Scissors
+- _Fragrance oils (optional)_
+- _Candle dye (optional)_
+  
 ## Table of Contents
 
 1. **Manufacturing Process**
@@ -39,8 +45,6 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
    - 1.6 Finalize Candle
 
 ## 1. Manufacturing Process
-
-### Soy Wax Candle Making Guide
 
 **1.1 Prepare Workspace**
 - Clear your workspace for a clutter-free environment.
@@ -55,9 +59,8 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
 - Melt soy wax flakes in a double boiler, stirring occasionally.
 - Heat wax to 170-180°F (76-82°C), using a thermometer to monitor.
 
-| :warning: Warning                 |
-|-----------------------------------|
-| Never leave melting wax unattended to prevent fire hazards. |
+> [!CAUTION]
+> Never leave melting wax unattended to prevent fire hazards. 
 
 **1.4 Install Wick**
 - Center the wick using a centering tool or a makeshift guide (e.g., pencil or chopstick).
@@ -65,19 +68,17 @@ We aim to make this journey as straightforward and enjoyable as possible, provid
 **1.5 Pour Wax**
 - After adding dye and fragrance at 140°F (60°C), pour the wax into the container, leaving space at the top.
 
-| :warning: Warning               |
-|---------------------------------|
-| Pour wax slowly to avoid spills and ensure the wick remains centered. |
+> [!WARNING]
+> Pour wax slowly to avoid spills and ensure the wick remains centered. 
 
 **1.6 Finalize Candle**
 - Let the candle cool undisturbed for 24 hours.
 - Trim the wick to about ¼ inch for an even burn.
 
-| :warning: Warning                   |
-|-------------------------------------|
-| Use heat-resistant containers to prevent cracking. |
+> [!WARNING]
+> Use heat-resistant containers to prevent cracking.
 
-#### Troubleshooting Common Issues
+## Troubleshooting Common Issues
 
 - **Sinkholes**
   - **Issue:** Sinkholes appear in the wax near the wick or at the candle's surface as it cools.
