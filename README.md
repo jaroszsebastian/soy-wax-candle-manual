@@ -1,6 +1,6 @@
 # Soy Wax Candle Manual
 --------------------------- 
-## $\text{\color {blue}{ 1. Overview}}$
+## $\text{\color {#080da3}{ \textbf {1. Overview}}}$
 
 **Welcome to the world of candle making!** 
 
@@ -11,15 +11,16 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > [!NOTE]
 > Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
 
-## $\text{\color {lightblue}{ Table of Contents}}$
 
-1. [**Overview**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-blue-1-overview)
-2. [**Safety Guidelines**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-red-2-safety-guidelines)
-3. [**Required Equipment and Materials**](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#textcolor-blue-3-required-equipment-and-materials)
-4. [**Manufacturing Process**](
-5. [**Troubleshooting Common Issues**]
-6. [**Quality Control Measures**]
-7.[**Conclusion**]
+|$\text{\color {blue}{ \textbf {Table of Contents}}}$|
+|---|
+|1. [**Overview**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-blue-1-overview)|
+|2. [**Safety Guidelines**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-red-2-safety-guidelines)|
+|3. [**Required Equipment and Materials**](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#textcolor-blue-3-required-equipment-and-materials)|
+|4. [**Manufacturing Process**](|
+|5. [**Troubleshooting Common Issues**]|
+|6. [**Quality Control Measures**]|
+|7.[**Conclusion**]|
   --------------------------- 
 ## $\text{\color {orange}{ 2. Safety Guidelines}}$
 
