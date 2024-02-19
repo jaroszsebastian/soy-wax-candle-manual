@@ -1,6 +1,6 @@
-# Soy Wax Candle Manual
---------------------------- 
-## $\text{\color {#080da3}{ \textbf {1. Overview}}}$
+<h1 align="center">Soy Wax Candle Manual</h1>
+
+## 1. Overview
 
 **Welcome to the world of candle making!** 
 
@@ -11,25 +11,25 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > [!NOTE]
 > Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
 
-
-|$\text{\color {blue}{ \textbf {Table of Contents}}}$|
+|Table of Contents|
 |---|
-|1. [**Overview**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-blue-1-overview)|
-|2. [**Safety Guidelines**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-red-2-safety-guidelines)|
-|3. [**Required Equipment and Materials**](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#textcolor-blue-3-required-equipment-and-materials)|
-|4. [**Manufacturing Process**](|
-|5. [**Troubleshooting Common Issues**]|
-|6. [**Quality Control Measures**]|
-|7.[**Conclusion**]|
-  --------------------------- 
-## $\text{\color {orange}{ 2. Safety Guidelines}}$
-
+|1. [**Overview**]()|
+|2. [**Safety Guidelines**]()|
+|3. [**Required Equipment and Materials**]()|
+|4. [**Manufacturing Process**]()|
+|5. [**Troubleshooting Common Issues**]()|
+|6. [**Quality Control Measures**]()|
+|7.[**Conclusion**]()|
+  
+## 2. Safety Guidelines
+> [!CAUTION]
+> Ensure safety by adhering to the rules below!
 - **Ventilation**: Ensure the manufacturing area is well-ventilated.
 - **Protective Equipment**: Wear gloves and protective clothing.
 - **Supervision**: Never leave heated wax unattended.
 - **Fire Safety**: Keep a fire extinguisher nearby.
- --------------------------- 
-## $\text{\color {green}{ 3. Required Equipment and Materials}}$
+ 
+## 3. Required Equipment and Materials
 
 - Soy wax flakes
 - Pre-tabbed candle wicks
@@ -42,7 +42,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 - _Fragrance oils (optional)_
 - _Candle dye (optional)_
 
-## $\text{\color {blue}{ 4. Manufacturing Process}}$
+## 4. Manufacturing Process
 
 **4.1 Prepare Workspace**
 - Clear your workspace for a clutter-free environment.
@@ -76,7 +76,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > [!WARNING]
 > Use heat-resistant containers to prevent cracking.
 
-## $\text{\color {blue}{ 5. Troubleshooting Common Issues}}$
+## 5. Troubleshooting Common Issues
 
 - **Sinkholes**
   - **Issue:** Sinkholes appear in the wax near the wick or at the candle's surface as it cools.
@@ -98,13 +98,13 @@ This guide is designed for everyone interested in learning how to make a soy wax
   - **Issue:** The wick is too short, becoming submerged in the wax as the candle burns.
   - **Solution:** Trim the wick to about ¼ inch above the wax surface before the initial burn. For future batches, ensure the wick is securely attached and stands upright, or consider using a longer wick.
 
-## $\text{\color {blue}{ 6. Quality Control Measures}}$
+## 6. Quality Control Measures
 
 - **Consistent Measurements:** Always measure fragrance oils and dye by weight rather than volume for consistency.
 - **Test Burns:** Conduct test burns with new candle batches to ensure proper burn quality, including the melt pool's size and how evenly the candle burns.
 - **Visual Checks:** Regularly inspect the color, consistency, and surface of candles for any signs of issues like frosting or separation, which could indicate improper mixing or temperature control.
 
-## $\text{\color {blue}{ 7. Conclusion}}$
+## 7. Conclusion
 
 Thank you for following along with this soy wax candle making guide. We've covered all the basics you need to start making your own candles, from setting up your workspace to finishing your candles properly.
 
