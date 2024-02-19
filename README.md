@@ -5,7 +5,7 @@
 **Welcome to the world of candle making!** 
 
 This guide is designed for everyone interested in learning how to make a soy wax candle regardless of their skills. 
-- If you are a beginner, familiarize yourself with [Safety Guidelines](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#2-safety-guidelines) and [Required Equipment and Materials](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#3-required-equipment-and-materials) before attempting to make a candle
+- If you are a beginner, familiarize yourself with [Safety Guidelines](#2-safety-guidelines) and [Required Equipment and Materials](#3-required-equipment-and-materials) before attempting to make a candle
 - If you are experienced, but are having issues with perfecting your candles, go to [Troubleshooting Common Issues](#6-quality-control-measures)
 
 > [!NOTE]
@@ -13,13 +13,13 @@ This guide is designed for everyone interested in learning how to make a soy wax
 
 |Table of Contents|
 |---|
-|1. [**Overview**]()|
-|2. [**Safety Guidelines**]()|
-|3. [**Required Equipment and Materials**]()|
-|4. [**Manufacturing Process**]()|
-|5. [**Troubleshooting Common Issues**]()|
-|6. [**Quality Control Measures**]()|
-|7.[**Conclusion**]()|
+|1. [**Overview**](#1-overview)|
+|2. [**Safety Guidelines**](#2-safety-guidelines)|
+|3. [**Required Equipment and Materials**](#3-required-equipment-and-materials)|
+|4. [**Manufacturing Process**](#4-manufacturing-process)|
+|5. [**Troubleshooting Common Issues**](#5-troubleshooting-common-issues)|
+|6. [**Quality Control Measures**](#6-quality-control-measures)|
+|7.[**Conclusion**](#7-conclusion)|
   
 ## 2. Safety Guidelines
 > [!CAUTION]
