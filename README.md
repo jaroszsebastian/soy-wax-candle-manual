@@ -100,10 +100,10 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > _**Solution:**_ Trim the wick to about ¼ inch above the wax surface before the initial burn. For future batches, ensure the wick is securely attached and stands upright, or consider using a longer wick.
 
 ## 6. Quality Control Measures
-
-- **Consistent Measurements:** Always measure fragrance oils and dye by weight rather than volume for consistency.
-- **Test Burns:** Conduct test burns with new candle batches to ensure proper burn quality, including the melt pool's size and how evenly the candle burns.
-- **Visual Checks:** Regularly inspect the color, consistency, and surface of candles for any signs of issues like frosting or separation, which could indicate improper mixing or temperature control.
+> [!IMPORTANT]
+> - **Consistent Measurements:** Always measure fragrance oils and dye by weight rather than volume for consistency.
+> - **Test Burns:** Conduct test burns with new candle batches to ensure proper burn quality, including the melt pool's size and how evenly the candle burns.
+> - **Visual Checks:** Regularly inspect the color, consistency, and surface of candles for any signs of issues like frosting or separation, which could indicate improper mixing or temperature control.
 
 ## 7. Conclusion
 
