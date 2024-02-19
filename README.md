@@ -14,9 +14,8 @@ This guide is designed for everyone interested in learning how to make a soy wax
 ## $\text{\color {orange}{ Safety Guidelines}}$
 
 - **Ventilation**: Ensure the manufacturing area is well-ventilated.
-- **Supervision**: Never leave heated wax unattended.
-- **Temperature Monitoring**: Use a thermometer to avoid overheating the wax.
 - **Protective Equipment**: Wear gloves and protective clothing.
+- **Supervision**: Never leave heated wax unattended.
 - **Fire Safety**: Keep a fire extinguisher nearby.
 
 ## $\text{\color {lightblue}{ Required Equipment and Materials}}$
@@ -40,7 +39,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
    - 1.3 Melt Wax
    - 1.4 Install Wick
    - 1.5 Pour Wax
-   - 1.6 Finalize Candle
+   - 1.6 Finish Candle
 
 ## 1. Manufacturing Process
 
@@ -69,7 +68,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > [!WARNING]
 > Pour wax slowly to avoid spills and ensure the wick remains centered. 
 
-**1.6 Finalize Candle**
+**1.6 Finish Candle**
 - Let the candle cool undisturbed for 24 hours.
 - Trim the wick to about ¼ inch for an even burn.
 
