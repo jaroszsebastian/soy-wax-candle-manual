@@ -24,23 +24,24 @@ This guide is designed for everyone interested in learning how to make a soy wax
 ## 2. Safety Guidelines
 > [!CAUTION]
 > Ensure safety by adhering to the rules below!
-- **Ventilation**: Ensure the manufacturing area is well-ventilated.
-- **Protective Equipment**: Wear gloves and protective clothing.
-- **Supervision**: Never leave heated wax unattended.
-- **Fire Safety**: Keep a fire extinguisher nearby.
+
+🔴 **Ventilation**: Ensure the manufacturing area is well-ventilated.<br>
+🔴 **Protective Equipment**: Wear gloves and protective clothing.<br>
+🔴 **Supervision**: Never leave heated wax unattended.<br>
+🔴 **Fire Safety**: Keep a fire extinguisher nearby.
  
 ## 3. Required Equipment and Materials
 
-- [X] Soy wax flakes
-- Pre-tabbed candle wicks
-- Heat-resistant candle containers
-- Double boiler
-- Candle thermometer
-- Stirring utensil (wooden preferred)
-- Wick centering tool
-- Scissors
-- _Fragrance oils (optional)_
-- _Candle dye (optional)_
+☑️ Soy wax flakes<br>
+☑️ Pre-tabbed candle wicks<br>
+☑️ Heat-resistant candle containers<br>
+☑️ Double boiler<br>
+☑️ Candle thermometer<br>
+☑️ Stirring utensil (wooden preferred)<br>
+☑️ Wick centering tool<br>
+☑️ Scissors<br>
+☑️ _Fragrance oils (optional)_ <br>
+☑️ _Candle dye (optional)_ 
 
 ## 4. Manufacturing Process
 
