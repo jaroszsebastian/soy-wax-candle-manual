@@ -6,7 +6,7 @@
 
 This guide is designed for everyone interested in learning how to make soy wax candles regardless of their skills. 
 - If you are just a beginner, this step-by-step instruction will guide you through the process of making your first candles.
-- If you are experienced in the craft of making candles, but are having issues with perfecting your candles, go to the Troubleshooting Common Issues section
+- If you are experienced in the craft of making candles, but are having issues with perfecting your candles, go to the [Troubleshooting Common Issues section](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#troubleshooting-common-issues)
 
 > [!NOTE]
 > Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
