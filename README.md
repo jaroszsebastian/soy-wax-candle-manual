@@ -15,8 +15,8 @@ This guide is designed for everyone interested in learning how to make a soy wax
 
 1. [**Overview**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-lightblue-1-overview)
 2. [**Safety Guidelines**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-orange-2-safety-guidelines)
-3. [**Required Equipment and Materials**](
-4. [**Manufacturing Process**]
+3. [**Required Equipment and Materials**](https://github.com/jaroszsebastian/soy-wax-candle-manual/blob/main/README.md#textcolor-lightblue-3-required-equipment-and-materials)
+4. [**Manufacturing Process**](
 5. [**Troubleshooting Common Issues**]
 6. [**Quality Control Measures**]
 7.[**Conclusion**]
