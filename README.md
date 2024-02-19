@@ -31,7 +31,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
  
 ## 3. Required Equipment and Materials
 
-- Soy wax flakes
+- [X] Soy wax flakes
 - Pre-tabbed candle wicks
 - Heat-resistant candle containers
 - Double boiler
