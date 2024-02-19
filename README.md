@@ -32,14 +32,14 @@ This guide is designed for everyone interested in learning how to make a soy wax
  
 ## 3. Required Equipment and Materials
 
-☑️ Soy wax flakes<br>
-☑️ Pre-tabbed candle wicks<br>
-☑️ Heat-resistant candle containers<br>
-☑️ Double boiler<br>
-☑️ Candle thermometer<br>
-☑️ Stirring utensil (wooden preferred)<br>
-☑️ Wick centering tool<br>
-☑️ Scissors<br>
+✅ Soy wax flakes<br>
+✅ Pre-tabbed candle wicks<br>
+✅ Heat-resistant candle containers<br>
+✅ Double boiler<br>
+✅ Candle thermometer<br>
+✅ Stirring utensil (wooden preferred)<br>
+✅ Wick centering tool<br>
+✅ Scissors<br>
 ☑️ _Fragrance oils (optional)_ <br>
 ☑️ _Candle dye (optional)_ 
 
