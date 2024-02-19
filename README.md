@@ -1,7 +1,7 @@
 # Soy Wax Candle Manual
 
 ## $\text{\color {lightblue}{ 1. Overview}}$
-
+--------------
 **Welcome to the world of candle making!** 
 
 This guide is designed for everyone interested in learning how to make a soy wax candle regardless of their skills. 
@@ -12,14 +12,15 @@ This guide is designed for everyone interested in learning how to make a soy wax
 > Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
 
 ## $\text{\color {blue}{ Table of Contents}}$
+
 1. [**Overview**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-lightblue-1-overview)
 2. [**Safety Guidelines**](https://github.com/jaroszsebastian/soy-wax-candle-manual/edit/main/README.md#textcolor-orange-2-safety-guidelines)
-3. [**Required Equipment and Materials**]
+3. [**Required Equipment and Materials**](
 4. [**Manufacturing Process**]
 5. [**Troubleshooting Common Issues**]
 6. [**Quality Control Measures**]
 7.[**Conclusion**]
-   
+  --------------------------- 
 ## $\text{\color {orange}{ 2. Safety Guidelines}}$
 
 - **Ventilation**: Ensure the manufacturing area is well-ventilated.
