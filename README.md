@@ -79,25 +79,25 @@ This guide is designed for everyone interested in learning how to make a soy wax
 
 ## 5. Troubleshooting Common Issues
 
-- **Sinkholes**
-  - **Issue:** Sinkholes appear in the wax near the wick or at the candle's surface as it cools.
-  - **Solution:** Gently reheat the surface of the candle with a heat gun or place it in a warm oven to melt the top layer. Alternatively, pour a second layer of slightly cooler wax over the first to fill in any gaps.
+:o: **Sinkholes**
+> _**Issue:**_ Sinkholes appear in the wax near the wick or at the candle's surface as it cools.<br>
+> _**Solution:**_ Gently reheat the surface of the candle with a heat gun or place it in a warm oven to melt the top layer. Alternatively, pour a second layer of slightly cooler wax over the first to fill in any gaps.
+  
+:o: **Wick Burning Too Quickly or Slowly**
+> _**Issue:**_ The wick burns too fast, resulting in a short candle life, or too slowly, causing an inadequate melt pool.<br>
+> _**Solution:**_ Ensure you're using the correct wick size for your candle's diameter. Thicker wicks are needed for wider candles, and thinner wicks are suitable for smaller candles. Adjust wick size accordingly in future batches.
 
-- **Wick Burning Too Quickly or Slowly**
-  - **Issue:** The wick burns too fast, resulting in a short candle life, or too slowly, causing an inadequate melt pool.
-  - **Solution:** Ensure you're using the correct wick size for your candle's diameter. Thicker wicks are needed for wider candles, and thinner wicks are suitable for smaller candles. Adjust wick size accordingly in future batches.
+:o: **Poor Scent Throw**
+> _**Issue:**_ The candle does not emit much fragrance when lit.<br>
+> _**Solution:**_ Increase the fragrance oil ratio slightly within the manufacturer's recommended limits. Ensure the wax is not too hot when adding fragrance oils, as high temperatures can cause the fragrance to evaporate.
 
-- **Poor Scent Throw**
-  - **Issue:** The candle does not emit much fragrance when lit.
-  - **Solution:** Increase the fragrance oil ratio slightly within the manufacturer's recommended limits. Ensure the wax is not too hot when adding fragrance oils, as high temperatures can cause the fragrance to evaporate.
+:o: **Uneven Surface**
+> _**Issue:**_ The surface of the candle is rough or has imperfections after setting.<br>
+> _**Solution:**_ Ensure the wax is poured at the correct temperature. For a smooth surface, pour wax at a slightly cooler temperature. Use a heat gun to gently reheat the surface, allowing it to re-solidify smoothly.
 
-- **Uneven Surface**
-  - **Issue:** The surface of the candle is rough or has imperfections after setting.
-  - **Solution:** Ensure the wax is poured at the correct temperature. For a smooth surface, pour wax at a slightly cooler temperature. Use a heat gun to gently reheat the surface, allowing it to re-solidify smoothly.
-
-- **Wick Has Drowned**
-  - **Issue:** The wick is too short, becoming submerged in the wax as the candle burns.
-  - **Solution:** Trim the wick to about ¼ inch above the wax surface before the initial burn. For future batches, ensure the wick is securely attached and stands upright, or consider using a longer wick.
+:o: **Wick Has Drowned**
+> _**Issue:**_ The wick is too short, becoming submerged in the wax as the candle burns.<br>
+> _**Solution:**_ Trim the wick to about ¼ inch above the wax surface before the initial burn. For future batches, ensure the wick is securely attached and stands upright, or consider using a longer wick.
 
 ## 6. Quality Control Measures
 
