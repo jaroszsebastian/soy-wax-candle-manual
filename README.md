@@ -19,7 +19,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 |4. [**Manufacturing Process**](#4-manufacturing-process)|
 |5. [**Troubleshooting Common Issues**](#5-troubleshooting-common-issues)|
 |6. [**Quality Control Measures**](#6-quality-control-measures)|
-|7.[**Conclusion**](#7-conclusion)|
+|7. [**Conclusion**](#7-conclusion)|
   
 ## 2. Safety Guidelines
 > [!CAUTION]
