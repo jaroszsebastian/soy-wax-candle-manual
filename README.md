@@ -1,4 +1,4 @@
-<h1 align="center">Soy Wax Candle Manual</h1>
+<h1 align="center">Soy Candle Manual</h1>
 
 ## 1. Overview
 
