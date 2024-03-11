@@ -6,7 +6,7 @@
 
 This guide is designed for everyone interested in learning how to make a soy wax candle regardless of their skills. 
 - If you are a beginner, please familiarize yourself with [Safety Guidelines](#2-safety-guidelines) and [Required Equipment and Materials](#3-required-equipment-and-materials) before making an attempt.
-- If you are experienced, but are having issues with perfecting your candles, go to [Troubleshooting Common Issues](#6-quality-control-measures).
+- If you are experienced, but are having issues with perfecting your candles, go to [Troubleshooting Common Issues](#5-troubleshooting-common-issues).
 
 > [!NOTE]
 > Candle making is not just a craft but a way to express creativity, enhance your living space, or even kick-start a business. 
