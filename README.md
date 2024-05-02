@@ -58,7 +58,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 
 **4.3 Melt Wax**
 - Melt soy wax flakes in a double boiler.
-  - Stirr occasionally.
+  - Stir occasionally.
 - Heat wax to 170-180°F (76-82°C).
   - Use a thermometer to monitor.
 > [!CAUTION]
@@ -72,7 +72,7 @@ This guide is designed for everyone interested in learning how to make a soy wax
 
 **4.5 Pour Wax**
 > [!NOTE]
-> If you want to add dye or fragrance, do it at 140°F (60°C) and stirr all the ingredients until they dissolve.
+> If you want to add dye or fragrance, do it at 140°F (60°C) and stir all the ingredients until they dissolve.
 - Pour the wax into the heat-resistant container leaving space at the top.
   - Ensure the wick remains centered. 
 > [!WARNING]
